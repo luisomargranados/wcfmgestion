@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Compilacion_Framework4.5\Seguimiento\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>07/12/2017 13:47:41</publishTime>
+    </File>
+    <File Include="bin/ADM.BD.dll">
+      <publishTime>04/18/2017 16:52:50</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>07/12/2017 13:47:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>07/12/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/03/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>09/03/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/03/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>09/03/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>04/18/2017 16:52:52</publishTime>
+    </File>
+    <File Include="bin/wcfMGestionA15.dll">
+      <publishTime>01/12/2018 14:32:34</publishTime>
+    </File>
+    <File Include="bin/wcfMGestionR15.dll">
+      <publishTime>01/12/2018 14:32:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/12/2017 13:47:41</publishTime>
+    </File>
+    <File Include="Pasajeros.svc">
+      <publishTime>11/12/2017 14:40:23</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>07/12/2017 13:47:41</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>07/12/2017 13:47:41</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/15/2017 13:37:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
